@@ -21,3 +21,5 @@ verify(result)
 
 result = recursive_binary_search(numbers, 6)
 verify(result)
+
+#Note the list or the array has to be sorted 
